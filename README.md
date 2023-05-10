@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas Motta</h1>
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassmtt)](https://github.com/lucassmtt/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
