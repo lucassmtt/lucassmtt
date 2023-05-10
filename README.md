@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Instagram: https://www.instagram.com/lucass.mtt/
+  <br>
   Email: lucasmottadev@gmail.com
 </p>
 
